@@ -1,3 +1,3 @@
 "Este es mi primer proyecto con Git".
 Archivo modificado nuevamente en el paso 3
-Pasamos al paso 6
+En el paso 5 modificamos para hacer un commit
